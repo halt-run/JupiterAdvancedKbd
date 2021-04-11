@@ -4023,7 +4023,7 @@ $EndComp
 Wire Wire Line
 	8800 8300 8700 8300
 Text GLabel 1600 8500 0    50   Input ~ 0
-ROW0
+ROW6
 Wire Wire Line
 	1600 8500 1700 8500
 Wire Wire Line
