@@ -3414,19 +3414,6 @@ $EndComp
 Wire Wire Line
 	3300 8300 3200 8300
 $Comp
-L Device:D_Small D31
-U 1 1 61C7F39B
-P 3700 8400
-F 0 "D31" H 3850 8450 39  0000 R CNN
-F 1 "SOD-123" H 4150 8450 39  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" V 3700 8400 50  0001 C CNN
-F 3 "~" V 3700 8400 50  0001 C CNN
-	1    3700 8400
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3800 8300 3700 8300
-$Comp
 L MX_Alps_Hybrid:MX-NoLED Space1
 U 1 1 61C7F3BB
 P 4850 8150
@@ -3581,9 +3568,6 @@ Connection ~ 2200 8500
 Wire Wire Line
 	2200 8500 1700 8500
 Connection ~ 3200 8500
-Connection ~ 3700 8500
-Wire Wire Line
-	3700 8500 3200 8500
 Connection ~ 4700 8500
 Connection ~ 6700 8500
 Connection ~ 7200 8500
@@ -3625,8 +3609,6 @@ Connection ~ 8700 8500
 Wire Wire Line
 	2200 8500 3200 8500
 Wire Wire Line
-	3700 8500 4700 8500
-Wire Wire Line
 	4700 8500 6700 8500
 Wire Wire Line
 	2000 6900 2000 8100
@@ -3658,4 +3640,6 @@ Connection ~ 9000 7500
 Wire Wire Line
 	9500 7500 9500 8100
 Connection ~ 9500 7500
+Wire Wire Line
+	3200 8500 4700 8500
 $EndSCHEMATC
