@@ -1,5 +1,17 @@
 ############################################################################
 # Notes on the size of plates and PCB:                                     #
 ############################################################################
-Height of Switch Plate: 142.875
-Width of Switch Plate: 304.80
+Height of Original Switch Plate: 142.875
+Width of Original Switch Plate: 304.80
+
+Height of Extended Switch Plate: 162.875
+Width of Extended Switch Plate: 314.80
+// Note: Padding to make routing easier on the PCB
+
+Distance from left edge to center of LCTRL: 17.001
+Distance from lower edge to center of LCTRL: 19.783
+
+
+TODO:
+    ( ) Move the top row of switches down to match the plate layout
+    ( ) Properly align the Cut-out with the switch locations
