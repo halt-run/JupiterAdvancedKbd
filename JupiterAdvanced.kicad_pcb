@@ -505,7 +505,7 @@
   )
 
   (module Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm (layer F.Cu) (tedit 5A0FD1B2) (tstamp 60738791)
-    (at 201.025 70.895)
+    (at 216.392 56.3916)
     (descr "SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package")
     (tags "SMD SMT crystal")
     (path /6074B36C)
@@ -546,7 +546,7 @@
   )
 
   (module Type-C:HRO-TYPE-C-31-M-12-Assembly (layer F.Cu) (tedit 5C42C666) (tstamp 6073877D)
-    (at 94.609999 71.685)
+    (at 109.976999 57.1816)
     (path /607612DD)
     (attr smd)
     (fp_text reference USB1 (at 0 -9.25) (layer F.SilkS)
@@ -607,7 +607,7 @@
   )
 
   (module Package_QFP:TQFP-64_14x14mm_P0.8mm (layer F.Cu) (tedit 5A02F146) (tstamp 6073875A)
-    (at 252.73 49.53)
+    (at 268.097 35.0266)
     (descr "64-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "QFP 0.8")
     (path /6072EC44)
@@ -775,7 +775,7 @@
   )
 
   (module random-keyboard-parts:SOT143B (layer F.Cu) (tedit 5E62B3A6) (tstamp 60738703)
-    (at 215.135 63.995)
+    (at 230.502 49.4916)
     (path /6078C9C0)
     (attr smd)
     (fp_text reference U1 (at 0 2.45) (layer F.SilkS)
@@ -874,7 +874,7 @@
   )
 
   (module random-keyboard-parts:SKQG-1155865 (layer F.Cu) (tedit 5E62B398) (tstamp 607386C3)
-    (at 104.705 65.785)
+    (at 120.072 51.2816)
     (path /60758B11)
     (attr smd)
     (fp_text reference SW1 (at 0 4.064) (layer F.SilkS)
@@ -1073,7 +1073,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 60738638)
-    (at 179.595 52.645)
+    (at 194.962 38.1416)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /6075B96B)
@@ -1109,7 +1109,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 60738627)
-    (at 179.595 49.695)
+    (at 194.962 35.1916)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /6073A109)
@@ -1145,7 +1145,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 60738616)
-    (at 179.595 46.745)
+    (at 194.962 32.2416)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /6073C03D)
@@ -1181,7 +1181,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 60738605)
-    (at 179.595 43.795)
+    (at 194.962 29.2916)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /6073D3AE)
@@ -1217,7 +1217,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 607385F4)
-    (at 179.595 40.845)
+    (at 194.962 26.3416)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /60764316)
@@ -1253,7 +1253,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 607385E3)
-    (at 179.595 37.895)
+    (at 194.962 23.3916)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /6077DA54)
@@ -1289,7 +1289,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 607385D2)
-    (at 194.995 73.435)
+    (at 210.362 58.9316)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /60762EA3)
@@ -1325,7 +1325,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 607385C1)
-    (at 194.995 76.385)
+    (at 210.362 61.8816)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /6077C869)
@@ -1420,7 +1420,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60738586)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 607352DC)
     (at 319.6844 127.508)
     (path /6092D10A)
     (fp_text reference PrtSc1 (at 0 3.175) (layer Dwgs.User)
@@ -1540,7 +1540,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 6073851D)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 607352A0)
     (at 338.6836 127.508)
     (path /6092D11F)
     (fp_text reference Pause1 (at 0 3.175) (layer Dwgs.User)
@@ -1780,8 +1780,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60738475)
-    (at 357.7336 105.664)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60735264)
+    (at 357.759 89.3572)
     (path /60E553A4)
     (fp_text reference MXSp14 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1810,8 +1810,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60738460)
-    (at 338.6836 105.664)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60735228)
+    (at 338.709 89.3572)
     (path /6080E4F9)
     (fp_text reference MXSp13 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1840,8 +1840,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 6073D037)
-    (at 319.6336 105.664)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 607351EC)
+    (at 319.659 89.3572)
     (path /6080E4E4)
     (fp_text reference MXSp12 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1870,8 +1870,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60738436)
-    (at 300.5836 105.664)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 607351B0)
+    (at 300.609 89.3572)
     (path /6080E4CF)
     (fp_text reference MXSp11 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1900,8 +1900,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60738421)
-    (at 262.4836 105.664)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60735174)
+    (at 262.509 89.3572)
     (path /6080E4BA)
     (fp_text reference MXSp10 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1930,8 +1930,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 6073CF1C)
-    (at 243.4336 105.664)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60735138)
+    (at 243.459 89.3572)
     (path /6080E490)
     (fp_text reference MXSp9 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1960,8 +1960,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 607383F7)
-    (at 224.3836 105.664)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 607350FC)
+    (at 224.409 89.3572)
     (path /6080E47B)
     (fp_text reference MXSp8 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1990,8 +1990,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 607383E2)
-    (at 205.3336 105.664)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 607350C0)
+    (at 205.359 89.3572)
     (path /607E1787)
     (fp_text reference MXSp7 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2020,8 +2020,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 607383CD)
-    (at 186.2836 105.664)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60735084)
+    (at 186.309 89.3572)
     (path /607E1772)
     (fp_text reference MXSp6 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2050,8 +2050,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 607383B8)
-    (at 167.2336 105.664)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60735048)
+    (at 167.259 89.3572)
     (path /607E175D)
     (fp_text reference MXSp5 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2080,8 +2080,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 607383A3)
-    (at 148.1836 105.664)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 6073500C)
+    (at 148.209 89.3572)
     (path /607E1748)
     (fp_text reference MXSp4 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2110,8 +2110,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 6073838E)
-    (at 129.1336 105.664)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60734FD0)
+    (at 129.159 89.3572)
     (path /607DC427)
     (fp_text reference MXSp3 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2140,8 +2140,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60738379)
-    (at 110.0836 105.664)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60734F94)
+    (at 110.109 89.3572)
     (path /607DC412)
     (fp_text reference MXSp2 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2170,8 +2170,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60738364)
-    (at 91.0336 105.664)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60734F58)
+    (at 91.059 89.3572)
     (path /607D7F1A)
     (fp_text reference MXSp1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2200,8 +2200,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 6072EF78)
-    (at 71.9836 105.664)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 607346CB)
+    (at 72.009 89.3572)
     (path /607C74DD)
     (fp_text reference MXSp0 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2620,7 +2620,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60738229)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60734F1C)
     (at 281.5336 127.508)
     (path /6092D0E0)
     (fp_text reference MXF11 (at 0 3.175) (layer Dwgs.User)
@@ -3434,7 +3434,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60737FEE)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60734EE0)
     (at 300.5836 127.508)
     (path /6092D0F5)
     (fp_text reference F12 (at 0 3.175) (layer Dwgs.User)
@@ -3465,7 +3465,7 @@
   )
 
   (module Fuse:Fuse_1206_3216Metric (layer F.Cu) (tedit 5B301BBE) (tstamp 60737FD9)
-    (at 195.595 70.315)
+    (at 210.962 55.8116)
     (descr "Fuse SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /607758DD)
@@ -3500,7 +3500,7 @@
     )
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60737FC8)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60734EA4)
     (at 262.4836 127.508)
     (path /6092D155)
     (fp_text reference F10 (at 0 3.175) (layer Dwgs.User)
@@ -3530,7 +3530,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60737FB3)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60734E68)
     (at 243.4336 127.508)
     (path /6092D0C1)
     (fp_text reference F9 (at 0 3.175) (layer Dwgs.User)
@@ -3560,7 +3560,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60737F9E)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60734E2C)
     (at 224.3836 127.508)
     (path /6092D0AC)
     (fp_text reference F8 (at 0 3.175) (layer Dwgs.User)
@@ -3590,7 +3590,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60737F89)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60734DF0)
     (at 205.3336 127.508)
     (path /6092D097)
     (fp_text reference F7 (at 0 3.175) (layer Dwgs.User)
@@ -3620,7 +3620,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60737F74)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60734DB4)
     (at 186.2836 127.508)
     (path /6092D082)
     (fp_text reference F6 (at 0 3.175) (layer Dwgs.User)
@@ -3650,7 +3650,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60737F5F)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60734D78)
     (at 167.2336 127.508)
     (path /6092D06D)
     (fp_text reference F5 (at 0 3.175) (layer Dwgs.User)
@@ -3680,7 +3680,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60737F4A)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60734D3C)
     (at 148.1836 127.508)
     (path /6092D058)
     (fp_text reference F4 (at 0 3.175) (layer Dwgs.User)
@@ -3710,7 +3710,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60737F35)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60734D00)
     (at 129.1336 127.508)
     (path /6092D043)
     (fp_text reference F3 (at 0 3.175) (layer Dwgs.User)
@@ -3740,7 +3740,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60737F20)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60734CC4)
     (at 110.0328 127.508)
     (path /6092D02E)
     (fp_text reference F2 (at 0 3.175) (layer Dwgs.User)
@@ -3770,7 +3770,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60737F0B)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60734C88)
     (at 90.9828 127.508)
     (path /6092D019)
     (fp_text reference F1 (at 0 3.175) (layer Dwgs.User)
@@ -3800,8 +3800,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60737EF6)
-    (at 71.9455 127.4953)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 6073428B)
+    (at 71.9328 127.508)
     (path /6092D004)
     (fp_text reference Esc1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3894,7 +3894,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60737EB3)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60734C4C)
     (at 357.7844 127.508)
     (path /60E553BB)
     (fp_text reference Delete1 (at 0 3.175) (layer Dwgs.User)
@@ -4188,8 +4188,8 @@
     )
   )
 
-  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 60737E08)
-    (at 361.95 111.76 90)
+  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 60734C08)
+    (at 361.9754 95.4532 90)
     (descr SOD-123)
     (tags SOD-123)
     (path /60E553AE)
@@ -4452,8 +4452,8 @@
     )
   )
 
-  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 60737D72)
-    (at 342.9 111.76 90)
+  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 60734BC0)
+    (at 342.9254 95.4532 90)
     (descr SOD-123)
     (tags SOD-123)
     (path /6080E503)
@@ -4716,8 +4716,8 @@
     )
   )
 
-  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 60737CDC)
-    (at 323.85 111.76 90)
+  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 60734B78)
+    (at 323.8754 95.4532 90)
     (descr SOD-123)
     (tags SOD-123)
     (path /6080E4EE)
@@ -4980,8 +4980,8 @@
     )
   )
 
-  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 60737C46)
-    (at 304.8 111.76 90)
+  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 60734B30)
+    (at 304.8254 95.4532 90)
     (descr SOD-123)
     (tags SOD-123)
     (path /6080E4D9)
@@ -5288,8 +5288,8 @@
     )
   )
 
-  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 60737B97)
-    (at 266.7 111.76 90)
+  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 60734AE8)
+    (at 266.7254 95.4532 90)
     (descr SOD-123)
     (tags SOD-123)
     (path /6080E4C4)
@@ -5816,8 +5816,8 @@
     )
   )
 
-  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 60737A6B)
-    (at 247.65 111.76 90)
+  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 60735514)
+    (at 247.6754 95.4532 90)
     (descr SOD-123)
     (tags SOD-123)
     (path /6080E49A)
@@ -6080,8 +6080,8 @@
     )
   )
 
-  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 607379D5)
-    (at 228.6 111.76 90)
+  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 607354CC)
+    (at 228.6254 95.4532 90)
     (descr SOD-123)
     (tags SOD-123)
     (path /6080E485)
@@ -6344,8 +6344,8 @@
     )
   )
 
-  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 6073793F)
-    (at 209.55 111.76 90)
+  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 60735484)
+    (at 209.5754 95.4532 90)
     (descr SOD-123)
     (tags SOD-123)
     (path /607E1791)
@@ -6652,8 +6652,8 @@
     )
   )
 
-  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 60737890)
-    (at 190.5 111.76 90)
+  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 6073543C)
+    (at 190.5254 95.4532 90)
     (descr SOD-123)
     (tags SOD-123)
     (path /607E177C)
@@ -6916,8 +6916,8 @@
     )
   )
 
-  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 607377FA)
-    (at 171.45 111.76 90)
+  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 607353F4)
+    (at 171.4754 95.4532 90)
     (descr SOD-123)
     (tags SOD-123)
     (path /607E1767)
@@ -7180,8 +7180,8 @@
     )
   )
 
-  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 6073774B)
-    (at 152.4 111.76 90)
+  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 607353AC)
+    (at 152.4254 95.4532 90)
     (descr SOD-123)
     (tags SOD-123)
     (path /607E1752)
@@ -7488,8 +7488,8 @@
     )
   )
 
-  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 6073769C)
-    (at 133.35 111.76 90)
+  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 60735364)
+    (at 133.3754 95.4532 90)
     (descr SOD-123)
     (tags SOD-123)
     (path /607DC431)
@@ -7752,8 +7752,8 @@
     )
   )
 
-  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 60737606)
-    (at 114.3 111.76 90)
+  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 6073531C)
+    (at 114.3254 95.4532 90)
     (descr SOD-123)
     (tags SOD-123)
     (path /607DC41C)
@@ -7973,7 +7973,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 60737589)
-    (at 95.25 111.76 90)
+    (at 95.2246 95.4786 90)
     (descr SOD-123)
     (tags SOD-123)
     (path /607D7F24)
@@ -8236,8 +8236,8 @@
     )
   )
 
-  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 607374F3)
-    (at 76.2 111.76 90)
+  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 6073470B)
+    (at 76.2254 95.4532 90)
     (descr SOD-123)
     (tags SOD-123)
     (path /607C81EE)
@@ -8341,7 +8341,7 @@
   )
 
   (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 607374B0)
-    (at 189.245 77.485)
+    (at 204.612 62.9816)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /6073ED4F)
@@ -8377,7 +8377,7 @@
   )
 
   (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 6073749F)
-    (at 209.745 63.445)
+    (at 225.112 48.9416)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /6074E6BD)
@@ -8413,7 +8413,7 @@
   )
 
   (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 6073748E)
-    (at 199.405 74.595)
+    (at 214.772 60.0916)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /6074D57A)
@@ -8449,7 +8449,7 @@
   )
 
   (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 6073747D)
-    (at 205.855 70.145)
+    (at 221.222 55.6416)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /60743462)
@@ -8485,7 +8485,7 @@
   )
 
   (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 6073746C)
-    (at 206.495 66.795)
+    (at 221.862 52.2916)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /607415AA)
@@ -8521,7 +8521,7 @@
   )
 
   (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 6073745B)
-    (at 210.905 66.395)
+    (at 226.272 51.8916)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /60744F6B)
@@ -8557,7 +8557,7 @@
   )
 
   (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 6073744A)
-    (at 199.405 77.545)
+    (at 214.772 63.0416)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /6074541D)
