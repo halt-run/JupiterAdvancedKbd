@@ -91,32 +91,6 @@ Wire Wire Line
 Wire Wire Line
 	13100 3900 13350 3900
 $Comp
-L Device:R_Small R6
-U 1 1 6073C03D
-P 13450 2900
-F 0 "R6" V 13254 2900 50  0000 C CNN
-F 1 "22" V 13345 2900 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 13450 2900 50  0001 C CNN
-F 3 "~" H 13450 2900 50  0001 C CNN
-	1    13450 2900
-	0    1    1    0   
-$EndComp
-$Comp
-L Device:R_Small R5
-U 1 1 6073D3AE
-P 13000 3000
-F 0 "R5" V 12804 3000 50  0000 C CNN
-F 1 "22" V 12895 3000 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 13000 3000 50  0001 C CNN
-F 3 "~" H 13000 3000 50  0001 C CNN
-	1    13000 3000
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	14000 2900 13550 2900
-Wire Wire Line
-	14000 3000 13100 3000
-$Comp
 L Device:C_Small C7
 U 1 1 6073ED4F
 P 13100 3300
@@ -391,10 +365,6 @@ Text GLabel 12400 2900 0    50   Input ~ 0
 D+
 Text GLabel 12400 3000 0    50   Input ~ 0
 D-
-Wire Wire Line
-	12400 3000 12900 3000
-Wire Wire Line
-	12400 2900 13350 2900
 $Comp
 L Type-C:HRO-TYPE-C-31-M-12 USB1
 U 1 1 607612DD
@@ -3642,4 +3612,8 @@ Wire Wire Line
 Connection ~ 9500 7500
 Wire Wire Line
 	3200 8500 4700 8500
+Wire Wire Line
+	12400 3000 14000 3000
+Wire Wire Line
+	12400 2900 14000 2900
 $EndSCHEMATC
