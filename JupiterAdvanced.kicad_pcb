@@ -564,8 +564,8 @@
       (net 111 "Net-(D94-Pad2)"))
   )
 
-  (module Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm (layer B.Cu) (tedit 5A0FD1B2) (tstamp 607365DB)
-    (at 279.025 113.325)
+  (module Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm (layer B.Cu) (tedit 5A0FD1B2) (tstamp 60752893)
+    (at 279.06818 111.6867)
     (descr "SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package")
     (tags "SMD SMT crystal")
     (path /6074B36C)
@@ -8268,7 +8268,7 @@
   )
 
   (module Capacitor_SMD:C_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 60736641)
-    (at 282.525 113.3375 270)
+    (at 282.56818 111.6992 270)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /6074E6BD)
@@ -8304,7 +8304,7 @@
   )
 
   (module Capacitor_SMD:C_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 60736611)
-    (at 284.625 113.3375 270)
+    (at 284.66818 111.6992 270)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /6074D57A)
@@ -8412,7 +8412,7 @@
   )
 
   (module Capacitor_SMD:C_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 607361C3)
-    (at 276.125 105.7375 270)
+    (at 276.50186 103.91878 270)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /60744F6B)
