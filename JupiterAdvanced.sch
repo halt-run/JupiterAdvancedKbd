@@ -379,12 +379,12 @@ $EndComp
 $Comp
 L Device:R_Small R2
 U 1 1 60762EA3
-P 2200 1600
-F 0 "R2" V 2004 1600 50  0000 C CNN
-F 1 "22" V 2095 1600 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 2200 1600 50  0001 C CNN
-F 3 "~" H 2200 1600 50  0001 C CNN
-	1    2200 1600
+P 2350 1600
+F 0 "R2" V 2154 1600 50  0000 C CNN
+F 1 "22" V 2245 1600 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 2350 1600 50  0001 C CNN
+F 3 "~" H 2350 1600 50  0001 C CNN
+	1    2350 1600
 	0    1    1    0   
 $EndComp
 $Comp
@@ -401,8 +401,6 @@ $EndComp
 Wire Wire Line
 	1450 1600 1650 1600
 Wire Wire Line
-	2300 1600 2800 1600
-Wire Wire Line
 	1450 1700 1800 1700
 Wire Wire Line
 	2650 1700 3600 1700
@@ -411,8 +409,6 @@ Wire Wire Line
 Wire Wire Line
 	1650 1400 1650 1600
 Connection ~ 1650 1600
-Wire Wire Line
-	1650 1600 2100 1600
 Wire Wire Line
 	1450 1500 1800 1500
 Wire Wire Line
@@ -425,7 +421,7 @@ D-
 Text GLabel 3850 1700 2    50   Input ~ 0
 D+
 Wire Wire Line
-	1450 2200 1550 2200
+	1450 2200 1500 2200
 Wire Wire Line
 	1550 2200 1550 2100
 Wire Wire Line
@@ -476,14 +472,10 @@ F 3 "" H 3100 1100 50  0001 C CNN
 	1    3100 1100
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	1900 1100 2150 1100
 Connection ~ 1900 1100
-Wire Wire Line
-	2150 1100 2450 1100
 Connection ~ 2150 1100
 Wire Wire Line
-	2650 1100 3100 1100
+	2650 1100 2850 1100
 $Comp
 L Device:R_Small R1
 U 1 1 6077C869
@@ -509,11 +501,11 @@ $EndComp
 Wire Wire Line
 	1450 1300 2050 1300
 Wire Wire Line
-	2050 1300 2050 1800
+	2050 1300 2050 1850
 Wire Wire Line
-	2050 1800 2400 1800
+	2050 1850 2400 1850
 Wire Wire Line
-	2400 1800 2400 2250
+	2400 1850 2400 2250
 Wire Wire Line
 	1450 1900 2050 1900
 Wire Wire Line
@@ -3613,7 +3605,135 @@ Connection ~ 9500 7500
 Wire Wire Line
 	3200 8500 4700 8500
 Wire Wire Line
-	12400 3000 14000 3000
+	12400 2900 13050 2900
+$Comp
+L Device:R_Small R5
+U 1 1 6082FF57
+P 13150 2900
+F 0 "R5" V 12954 2900 50  0000 C CNN
+F 1 "22" V 13045 2900 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 13150 2900 50  0001 C CNN
+F 3 "~" H 13150 2900 50  0001 C CNN
+	1    13150 2900
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R_Small R6
+U 1 1 6083167A
+P 13450 3000
+F 0 "R6" V 13254 3000 50  0000 C CNN
+F 1 "22" V 13345 3000 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 13450 3000 50  0001 C CNN
+F 3 "~" H 13450 3000 50  0001 C CNN
+	1    13450 3000
+	0    1    1    0   
+$EndComp
 Wire Wire Line
-	12400 2900 14000 2900
+	13250 2900 14000 2900
+Wire Wire Line
+	13550 3000 14000 3000
+Wire Wire Line
+	12400 3000 13350 3000
+Text GLabel 15200 3500 2    50   Input ~ 0
+COL11
+Text GLabel 14000 4100 0    50   Input ~ 0
+COL12
+Text GLabel 14000 4200 0    50   Input ~ 0
+COL13
+Text GLabel 15200 4600 2    50   Input ~ 0
+COL14
+Text GLabel 15200 4700 2    50   Input ~ 0
+COL15
+Text GLabel 14000 3700 0    50   Input ~ 0
+COL10
+Text GLabel 15200 2100 2    50   Input ~ 0
+COL9
+Text GLabel 15200 2000 2    50   Input ~ 0
+COL8
+Text GLabel 15200 1900 2    50   Input ~ 0
+COL7
+Text GLabel 14000 5300 0    50   Input ~ 0
+COL6
+Text GLabel 14000 5200 0    50   Input ~ 0
+COL5
+Text GLabel 14000 5100 0    50   Input ~ 0
+COL5
+Text GLabel 14000 5000 0    50   Input ~ 0
+COL4
+Text GLabel 14000 4900 0    50   Input ~ 0
+COL3
+Text GLabel 14000 4800 0    50   Input ~ 0
+COL2
+Text GLabel 14000 4700 0    50   Input ~ 0
+COL1
+Text GLabel 14000 4600 0    50   Input ~ 0
+COL0
+Text GLabel 14000 3800 0    50   Input ~ 0
+ROW0
+Text GLabel 15200 3700 2    50   Input ~ 0
+ROW1
+Text GLabel 15200 3800 2    50   Input ~ 0
+ROW2
+Text GLabel 15200 3900 2    50   Input ~ 0
+ROW3
+Text GLabel 15200 4000 2    50   Input ~ 0
+ROW4
+Text GLabel 15200 4100 2    50   Input ~ 0
+ROW5
+Text GLabel 15200 4200 2    50   Input ~ 0
+ROW6
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 609719E9
+P 2850 1100
+F 0 "#FLG0101" H 2850 1175 50  0001 C CNN
+F 1 "PWR_FLAG" H 2850 1273 50  0000 C CNN
+F 2 "" H 2850 1100 50  0001 C CNN
+F 3 "~" H 2850 1100 50  0001 C CNN
+	1    2850 1100
+	1    0    0    -1  
+$EndComp
+Connection ~ 2850 1100
+Wire Wire Line
+	2850 1100 3100 1100
+Wire Wire Line
+	1900 1100 2000 1100
+Wire Wire Line
+	2150 1100 2450 1100
+$Comp
+L power:PWR_FLAG #FLG0102
+U 1 1 609790AF
+P 2000 1100
+F 0 "#FLG0102" H 2000 1175 50  0001 C CNN
+F 1 "PWR_FLAG" H 2000 1273 50  0000 C CNN
+F 2 "" H 2000 1100 50  0001 C CNN
+F 3 "~" H 2000 1100 50  0001 C CNN
+	1    2000 1100
+	1    0    0    -1  
+$EndComp
+Connection ~ 2000 1100
+Wire Wire Line
+	2000 1100 2150 1100
+$Comp
+L power:PWR_FLAG #FLG0103
+U 1 1 6097A832
+P 1500 2200
+F 0 "#FLG0103" H 1500 2275 50  0001 C CNN
+F 1 "PWR_FLAG" H 1500 2373 50  0000 C CNN
+F 2 "" H 1500 2200 50  0001 C CNN
+F 3 "~" H 1500 2200 50  0001 C CNN
+	1    1500 2200
+	-1   0    0    1   
+$EndComp
+Connection ~ 1500 2200
+Wire Wire Line
+	1500 2200 1550 2200
+Wire Wire Line
+	2450 1600 2800 1600
+Wire Wire Line
+	1650 1600 2250 1600
+Text GLabel 2150 1600 1    50   Input ~ 0
+DN
+Text GLabel 2150 1700 3    50   Input ~ 0
+DP
 $EndSCHEMATC
