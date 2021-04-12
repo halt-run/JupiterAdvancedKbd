@@ -376,34 +376,10 @@ F 3 "" H 1350 1550 60  0001 C CNN
 	1    1350 1550
 	1    0    0    -1  
 $EndComp
-$Comp
-L Device:R_Small R2
-U 1 1 60762EA3
-P 2350 1600
-F 0 "R2" V 2154 1600 50  0000 C CNN
-F 1 "22" V 2245 1600 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 2350 1600 50  0001 C CNN
-F 3 "~" H 2350 1600 50  0001 C CNN
-	1    2350 1600
-	0    1    1    0   
-$EndComp
-$Comp
-L Device:R_Small R4
-U 1 1 60764316
-P 2550 1700
-F 0 "R4" V 2354 1700 50  0000 C CNN
-F 1 "22" V 2445 1700 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 2550 1700 50  0001 C CNN
-F 3 "~" H 2550 1700 50  0001 C CNN
-	1    2550 1700
-	0    1    1    0   
-$EndComp
 Wire Wire Line
 	1450 1600 1650 1600
 Wire Wire Line
 	1450 1700 1800 1700
-Wire Wire Line
-	2650 1700 3600 1700
 Wire Wire Line
 	1450 1400 1650 1400
 Wire Wire Line
@@ -414,11 +390,9 @@ Wire Wire Line
 Wire Wire Line
 	1800 1500 1800 1700
 Connection ~ 1800 1700
-Wire Wire Line
-	1800 1700 2450 1700
-Text GLabel 3850 1600 2    50   Input ~ 0
+Text GLabel 4050 1600 2    50   Input ~ 0
 D-
-Text GLabel 3850 1700 2    50   Input ~ 0
+Text GLabel 4050 1700 2    50   Input ~ 0
 D+
 Wire Wire Line
 	1450 2200 1500 2200
@@ -550,14 +524,10 @@ Wire Wire Line
 	2800 2350 2800 1600
 Connection ~ 2800 1600
 Wire Wire Line
-	2800 1600 3850 1600
-Wire Wire Line
 	3500 2350 3600 2350
 Wire Wire Line
 	3600 2350 3600 1700
 Connection ~ 3600 1700
-Wire Wire Line
-	3600 1700 3850 1700
 Wire Wire Line
 	3500 2450 3500 2650
 Wire Wire Line
@@ -3728,12 +3698,16 @@ $EndComp
 Connection ~ 1500 2200
 Wire Wire Line
 	1500 2200 1550 2200
-Wire Wire Line
-	2450 1600 2800 1600
-Wire Wire Line
-	1650 1600 2250 1600
-Text GLabel 2150 1600 1    50   Input ~ 0
+Text GLabel 13700 3000 3    50   Input ~ 0
 DN
-Text GLabel 2150 1700 3    50   Input ~ 0
+Text GLabel 13700 2900 1    50   Input ~ 0
 DP
+Wire Wire Line
+	1650 1600 2800 1600
+Wire Wire Line
+	1800 1700 3600 1700
+Wire Wire Line
+	2800 1600 4050 1600
+Wire Wire Line
+	3600 1700 4050 1700
 $EndSCHEMATC
