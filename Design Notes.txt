@@ -12,6 +12,10 @@ Distance from left edge to center of LCTRL: 17.001
 Distance from lower edge to center of LCTRL: 19.783
 
 
+############################################################################
+# PCB Manufacturing Notes:                        	                   #
+############################################################################
+Total number of SMD components: 118
+Number of unique components: 9
+
 TODO:
-    ( ) Move the top row of switches down to match the plate layout
-    ( ) Properly align the Cut-out with the switch locations
