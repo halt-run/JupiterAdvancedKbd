@@ -3733,4 +3733,70 @@ NoConn ~ 11050 4050
 NoConn ~ 11050 4150
 NoConn ~ 11050 4250
 NoConn ~ 11050 2350
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 607B1DF0
+P 5900 1000
+F 0 "H4" H 6000 1046 50  0000 L CNN
+F 1 "MountingHole" H 6000 955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 5900 1000 50  0001 C CNN
+F 3 "~" H 5900 1000 50  0001 C CNN
+	1    5900 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 607B3E5A
+P 5900 1500
+F 0 "H5" H 6000 1546 50  0000 L CNN
+F 1 "MountingHole" H 6000 1455 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 5900 1500 50  0001 C CNN
+F 3 "~" H 5900 1500 50  0001 C CNN
+	1    5900 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H6
+U 1 1 607B462B
+P 5900 2000
+F 0 "H6" H 6000 2046 50  0000 L CNN
+F 1 "MountingHole" H 6000 1955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 5900 2000 50  0001 C CNN
+F 3 "~" H 5900 2000 50  0001 C CNN
+	1    5900 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 607B5D34
+P 5400 1000
+F 0 "H1" H 5500 1046 50  0000 L CNN
+F 1 "MountingHole" H 5500 955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 5400 1000 50  0001 C CNN
+F 3 "~" H 5400 1000 50  0001 C CNN
+	1    5400 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 607B60CD
+P 5400 1500
+F 0 "H2" H 5500 1546 50  0000 L CNN
+F 1 "MountingHole" H 5500 1455 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 5400 1500 50  0001 C CNN
+F 3 "~" H 5400 1500 50  0001 C CNN
+	1    5400 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 607B643D
+P 5400 2000
+F 0 "H3" H 5500 2046 50  0000 L CNN
+F 1 "MountingHole" H 5500 1955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 5400 2000 50  0001 C CNN
+F 3 "~" H 5400 2000 50  0001 C CNN
+	1    5400 2000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
