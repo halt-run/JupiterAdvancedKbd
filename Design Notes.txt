@@ -11,6 +11,9 @@ Width of Extended Switch Plate: 314.80
 Distance from left edge to center of LCTRL: 17.001
 Distance from lower edge to center of LCTRL: 19.783
 
+Margin between PCB and Casing: 1.2mm
+Edge thickness of Casing: 5mm
+Angle of PCB within case: 87d
 
 ############################################################################
 # PCB Manufacturing Notes:                        	                   #
