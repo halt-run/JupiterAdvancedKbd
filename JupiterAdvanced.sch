@@ -3610,13 +3610,13 @@ Text GLabel 12300 3050 2    50   Input ~ 0
 COL11
 Text GLabel 12300 3550 2    50   Input ~ 0
 COL15
-Text GLabel 12300 2450 2    50   Input ~ 0
+Text GLabel 12300 2650 2    50   Input ~ 0
 ROW6
-Text GLabel 12300 2350 2    50   Input ~ 0
+Text GLabel 12300 2450 2    50   Input ~ 0
 ROW0
-Text GLabel 12300 3350 2    50   Input ~ 0
-COL7
 Text GLabel 12300 3250 2    50   Input ~ 0
+COL7
+Text GLabel 12300 3350 2    50   Input ~ 0
 COL6
 Text GLabel 12300 5250 2    50   Input ~ 0
 COL5
@@ -3636,9 +3636,9 @@ Text GLabel 12300 3750 2    50   Input ~ 0
 COL13
 Text GLabel 12300 3850 2    50   Input ~ 0
 COL12
-Text GLabel 13100 3850 2    50   Input ~ 0
+Text GLabel 12300 3950 2    50   Input ~ 0
 COL9
-Text GLabel 13100 3950 2    50   Input ~ 0
+Text GLabel 12300 4150 2    50   Input ~ 0
 COL8
 $Comp
 L power:PWR_FLAG #FLG0101
@@ -3941,13 +3941,13 @@ Wire Wire Line
 	9750 2800 9850 2800
 Wire Wire Line
 	9600 2800 9750 2800
-Text GLabel 12300 2950 2    50   Input ~ 0
+Text GLabel 12300 4250 2    50   Input ~ 0
 ROW1
-Text GLabel 12300 2850 2    50   Input ~ 0
-ROW2
 Text GLabel 12300 2750 2    50   Input ~ 0
+ROW2
+Text GLabel 12300 2850 2    50   Input ~ 0
 ROW3
-Text GLabel 12300 2650 2    50   Input ~ 0
+Text GLabel 12300 2950 2    50   Input ~ 0
 ROW4
 Wire Wire Line
 	9750 2450 9750 2800
