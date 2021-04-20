@@ -1,4 +1,7 @@
-(module TS-1187A-B-A-B (layer F.Cu) (tedit 607E6D45)
+(module TS-1187A-B-A-B (layer F.Cu) (tedit 607E7F31)
+  (descr "Push button")
+  (tags "Push Button, JLCPCB, ")
+  (attr smd)
   (fp_text reference REF** (at 0.02794 -3.556) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
