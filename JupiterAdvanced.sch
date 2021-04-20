@@ -3610,9 +3610,9 @@ Text GLabel 12300 3050 2    50   Input ~ 0
 COL11
 Text GLabel 12300 3550 2    50   Input ~ 0
 COL15
-Text GLabel 12300 2650 2    50   Input ~ 0
+Text GLabel 12300 2550 2    50   Input ~ 0
 ROW6
-Text GLabel 12300 2450 2    50   Input ~ 0
+Text GLabel 12300 2650 2    50   Input ~ 0
 ROW0
 Text GLabel 12300 3250 2    50   Input ~ 0
 COL7
@@ -3953,6 +3953,6 @@ Wire Wire Line
 	9750 2450 9750 2800
 Wire Wire Line
 	9850 2450 9750 2450
-Text GLabel 12300 2550 2    50   Input ~ 0
+Text GLabel 12300 2450 2    50   Input ~ 0
 ROW5
 $EndSCHEMATC
