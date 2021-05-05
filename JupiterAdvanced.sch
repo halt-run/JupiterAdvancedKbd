@@ -297,10 +297,6 @@ D-
 Text GLabel 4050 1700 2    50   Input ~ 0
 D+
 Wire Wire Line
-	1450 2200 1500 2200
-Wire Wire Line
-	1550 2200 1550 2100
-Wire Wire Line
 	1550 2100 1450 2100
 Wire Wire Line
 	1550 2100 1550 1000
@@ -3671,20 +3667,6 @@ $EndComp
 Connection ~ 2000 1100
 Wire Wire Line
 	2000 1100 2150 1100
-$Comp
-L power:PWR_FLAG #FLG0103
-U 1 1 6097A832
-P 1500 2200
-F 0 "#FLG0103" H 1500 2275 50  0001 C CNN
-F 1 "PWR_FLAG" H 1500 2373 50  0000 C CNN
-F 2 "" H 1500 2200 50  0001 C CNN
-F 3 "~" H 1500 2200 50  0001 C CNN
-	1    1500 2200
-	-1   0    0    1   
-$EndComp
-Connection ~ 1500 2200
-Wire Wire Line
-	1500 2200 1550 2200
 Text GLabel 10800 3450 3    50   Input ~ 0
 DN
 Text GLabel 10800 3350 1    50   Input ~ 0
@@ -3958,4 +3940,17 @@ Wire Wire Line
 	9850 2450 9750 2450
 Text GLabel 12300 2450 2    50   Input ~ 0
 ROW5
+Wire Wire Line
+	1450 2200 1550 2200
+$Comp
+L power:Earth #PWR?
+U 1 1 609BA776
+P 1550 2200
+F 0 "#PWR?" H 1550 1950 50  0001 C CNN
+F 1 "Earth" H 1550 2050 50  0001 C CNN
+F 2 "" H 1550 2200 50  0001 C CNN
+F 3 "~" H 1550 2200 50  0001 C CNN
+	1    1550 2200
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
