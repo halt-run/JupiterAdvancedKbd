@@ -3930,8 +3930,6 @@ Text GLabel 12300 4250 2    50   Input ~ 0
 ROW1
 Text GLabel 12300 2750 2    50   Input ~ 0
 ROW2
-Text GLabel 12300 2850 2    50   Input ~ 0
-ROW3
 Text GLabel 12300 2950 2    50   Input ~ 0
 ROW4
 Wire Wire Line
@@ -4134,4 +4132,6 @@ Wire Wire Line
 Text GLabel 12300 4550 2    50   Input ~ 0
 LED
 NoConn ~ 8000 9700
+Text GLabel 12300 2850 2    50   Input ~ 0
+ROW3
 $EndSCHEMATC
